@@ -1,0 +1,16 @@
+[
+  {
+    "id": 3,
+    "istasyonAdi": "شثبسيب",
+    "kapasite": 0,
+    "mevcutBisikletSayisi": 0,
+    "silindiMi": true
+  },
+  {
+    "id": 2,
+    "istasyonAdi": "542345634563456373",
+    "kapasite": 534534,
+    "mevcutBisikletSayisi": 1,
+    "silindiMi": false
+  }
+]

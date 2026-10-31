@@ -1,0 +1,11 @@
+[
+  {
+    "id": 0,
+    "bisikletKodu": "sfgsdfbavefbtgea",
+    "modelBilgisi": "54234t2q3",
+    "durum": "Müsait",
+    "bulunduguIstasyonId": 2,
+    "kiralanmaSayisi": 0,
+    "silindiMi": false
+  }
+]
